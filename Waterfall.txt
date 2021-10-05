@@ -7,3 +7,10 @@ Tahap -Tahapan Waterfall
 - Implementation
 - Integration & Testing
 - Operation & Maintenance
+
+Keunggulan Waterfall :
+- Cocok untuk membuat software dengan skala besar
+- Cocok untuk mengembangkan sistem yang bersifat generic
+Kekurangan Waterfall :
+- Persyaratan sistem harus digambarkan dengan jelas
+- Rincian proses harus benar-benar jelas dan tidak boleh berubah
