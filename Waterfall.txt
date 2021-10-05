@@ -1,0 +1,9 @@
+Pengertian Waterfall :
+- Waterfall : Salah satu siklus hidupklasik (classic life cycle) dalam pengembangan perangkat lunak.
+
+Tahap -Tahapan Waterfall
+- Requirement
+- Design
+- Implementation
+- Integration & Testing
+- Operation & Maintenance
